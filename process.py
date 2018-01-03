@@ -13,7 +13,7 @@ score = {
 
 chess_color = (55,57,98,255)
 
-filename = '4.png'
+filename = 'screen/p_19.png'
 
 def sim(bg,pixel,p=0.1):
     s = 0
