@@ -14,3 +14,8 @@
 1. python3
 2. PIL
 3. matplotlib
+
+识别效果：
+![识别效果](https://gitee.com/uploads/images/2018/0219/162751_8b8a0c1f_1204709.png "p_1.png")
+
+> 效果一般般，最高分才四百多[捂脸]，可以交流交流
